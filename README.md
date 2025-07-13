@@ -41,3 +41,6 @@ Add image upload + AI vision feedback (e.g., with LLaVA)
 Integrate peer recommendation engine
 Save user sessions to track long-term progress
 A/B test different prompt styles (descriptive vs. direct)
+
+Prototype Screenshot:
+<img width="1470" height="872" alt="Screenshot 2025-07-13 at 6 35 36 PM" src="https://github.com/user-attachments/assets/18d8c73e-70ca-48e6-8a8c-8c7a7b8e3457" />
